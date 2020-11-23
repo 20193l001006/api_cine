@@ -7,10 +7,10 @@
             private $Connection = "";
 
             public function __construct() {
-                $this-> Host = "localhost";
-                $this-> User = "root";
-                $this-> Password = "";
-                $this-> DataBase = "sakila";
+                $this -> Host = 'sakila.mysql.database.azure.com';
+                $this -> User = 'ahc2806@sakila';
+                $this -> Password = 'CiA28069';
+                $this -> Database = 'sakila';
             }
 
             public function OpenConnection() {
