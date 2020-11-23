@@ -10,7 +10,7 @@
                 $this -> Host = 'sakila.mysql.database.azure.com';
                 $this -> User = 'ahc2806@sakila';
                 $this -> Password = 'CiA28069';
-                $this -> Database = 'sakila';
+                $this -> DataBase = 'sakila';
             }
 
             public function OpenConnection() {
