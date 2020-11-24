@@ -1,6 +1,6 @@
 <?php
-    require_once '../dto/categoriaDTO.php';
-    require_once '../conexion.php';
+     require "../conexion.php";
+     require "../dto/categoriaDTO.php";
 
     class CategoriaBL {
         private $conexion;

@@ -1,5 +1,5 @@
 <?php
-    require_once './peliculaBL.php';
+    require "peliculaBL.php";
 
     class PeliculaService {
         private $peliculaDTO;

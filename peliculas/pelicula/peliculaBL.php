@@ -1,6 +1,6 @@
 <?php
-    require_once '../dto/peliculaDTO.php';
-    require_once '../conexion.php';
+     require "../conexion.php";
+     require "../dto/peliculaDTO.php";
 
     class PeliculaBL {
         private $conexion;

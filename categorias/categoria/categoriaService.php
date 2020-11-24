@@ -1,5 +1,5 @@
 <?php
-    require_once './categoriaBL.php';
+    require "categoriaBL.php";
 
     class CategoriaService {
         private $categoriaDTO;
