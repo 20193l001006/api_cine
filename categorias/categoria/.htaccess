@@ -1,4 +1,4 @@
 Options +FollowSymLinks -MultiViews
 
 RewriteEngine On
-RewriteRule ^([0-9a-zA-Z_-]*)$ CategoriaService.php?param=$1
+RewriteRule ^([0-9a-zA-Z_-]*)$ categoriaService.php?param=$1

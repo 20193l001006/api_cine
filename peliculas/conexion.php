@@ -1,5 +1,5 @@
 <?php
-        class conexion {
+        class Conexion {
             private $Host = "";
             private $User = "";
             private $Password = "";
